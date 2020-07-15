@@ -17,6 +17,9 @@ yarn.lock
 #file
 package.json
 
+#file
+/src/contents/logo.svg
+
 # production
 /build
 
