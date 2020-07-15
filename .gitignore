@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+#file
+yarn.lock
+
+#file
+.replit
+
 # production
 /build
 
