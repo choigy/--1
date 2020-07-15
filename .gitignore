@@ -11,12 +11,6 @@
 # production
 /build
 
-#file
-yarn.lock
-
-#file
-.replit
-
 # misc
 .DS_Store
 .env.local
